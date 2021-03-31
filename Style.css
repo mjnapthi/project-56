@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+background: linear-gradient(#ff0055, #eb7b09, #b7b723, #73e187, #00fff0);
+}
+.maindiv{
+  display:flex;
+  justify-content:center;
+}
+#subdiv{
+  margin-right:30px;
+  margin-left:100px;
+}
+
+img{
+  width:300px;
+  height:200px;
+}
+
+
+
